@@ -14,4 +14,4 @@ public class Mine extends Batiment {
     public void production (){
         
     }   
-}
+}//XDLOLPTDR
